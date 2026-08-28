@@ -1,0 +1,13 @@
+{
+  "name": "fictur",
+  "version": "1.0.0",
+  "private": true,
+  "description": "FicTur — asisten AI percakapan yang mengubah cerita/deskripsi jadi gambar, dilengkapi puluhan tool produktivitas & visualisasi. Static frontend (HTML/CSS/JS modular), belum terhubung backend.",
+  "scripts": {
+    "dev": "npx serve public",
+    "start": "npx serve public"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
